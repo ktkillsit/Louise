@@ -1,0 +1,68 @@
+body{
+	margin: 0;
+	font-family: Helvetica; Arial;
+	font-size:  20px;
+	line-height: 20px;
+}
+header{ 
+	background-color: #F48FB1;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	font-size: 30px;
+	text-transform: uppercase;
+}
+
+header h1, h2{
+	font-family: 'Caveat', cursive;
+}
+
+h1{
+	color: white;
+}
+
+header img{
+	width: 400px;
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+
+h2{
+	font-size: 30px;
+	color:  forestgreen;
+	margin: 40px 0 5px;
+}
+
+main img{
+	max-width: 100%;
+}
+
+p.caption{
+	color: lightgrey;
+	font-size: 15px;
+	font-style: italic;
+	margin-top: 0;
+}
+
+a{
+	color: forestgreen;
+}
+a:hover{
+	color: white;
+	background-color: forestgreen;
+}
+
+footer{
+	background-color: #F48FB1;
+	text-align: center;
+	color: white;
+	padding:  50px;
+}
+
+footer a{
+	padding: 0;
+}
